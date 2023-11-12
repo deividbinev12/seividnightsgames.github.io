@@ -1,0 +1,16 @@
+#GelleryCover{
+    float: none;
+    margin-right: 10px;
+    border: 5px solid darkgreen;
+}
+#ArchiveArt{
+    float: none;
+    margin-right: 10px;
+    border: 5px solid darkgreen;
+}
+
+#Adultartcover{
+    float: none;
+    margin-right: 10px;
+    border: 5px solid red;
+}
